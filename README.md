@@ -60,5 +60,11 @@ To create a centralized, interactive dashboard that provides clear visibility in
 
 ---
 
+## 📸 Dashboard Screenshot
+
+![Mobile Sales Dashboard](https://github.com/Malayasis-Banerjee/Mobile-Sales-data/blob/main/Mobile%20Sales%20Dashboard.png
+)
+
+
 ## 🔑 Summary
 *Mobile Sales Dashboard using Excel & Power BI – Analyzed ₹769M sales across brands, cities, and models. Delivered insights on customer behavior, payment methods, and peak sales days to support business decisions.*
